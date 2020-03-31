@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Initial Application
+                   <!--  Initial Application Version -->
+                    Application version for ex 6.2 - Blue/Green Deployment
                 </div>
 
                 <div class="links">
